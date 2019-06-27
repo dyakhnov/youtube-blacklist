@@ -1,0 +1,16 @@
+# Youtube
+(^|\.)googlevideo\.com$
+(^|\.)youtube\.com$
+(^|\.)youtube\.com\.au$
+(^|\.)ytimg\.com$
+youtu.be
+youtube-ui.l.google.com
+youtubei.googleapis.com
+ytimg.l.google.com
+
+# TV
+analytics.plex.tv
+logs.roku.com
+
+# Other
+betterstream.co
