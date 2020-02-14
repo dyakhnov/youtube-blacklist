@@ -1,5 +1,7 @@
 accounts.youtube.com
+a.rtmp.youtube.com
 austin.logs.roku.com
+gaming.youtube.com
 i1.ytimg.com
 i2.ytimg.com
 i3.ytimg.com
@@ -59,14 +61,17 @@ r2---sn-hgn7yn7e.googlevideo.com
 r2---sn-hp57ynez.googlevideo.com
 r2---sn-i3belnl7.googlevideo.com
 r2---sn-npoe7n7r.googlevideo.com
+r2---sn-npoe7n7z.c.youtube.com
 r2---sn-npoe7ne6.googlevideo.com
 r2---sn-npoe7ned.googlevideo.com
 r2---sn-npoe7nlz.googlevideo.com
+r2---sn-npoeen76.googlevideo.com
 r2---sn-npoeene6.googlevideo.com
 r2---sn-npoeeney.googlevideo.com
 r2---sn-npoeenez.googlevideo.com
 r2---sn-npoeenl7.googlevideo.com
 r2---sn-ntq7yned.googlevideo.com
+r2---sn-ntq7yner.c.youtube.com
 r2---sn-ntq7yner.googlevideo.com
 r2---sn-ntq7yney.googlevideo.com
 r2---sn-ntqe6n76.googlevideo.com
@@ -95,6 +100,7 @@ r3---sn-npoe7nlz.googlevideo.com
 r3---sn-npoeen7d.googlevideo.com
 r3---sn-npoeene6.googlevideo.com
 r3---sn-npoeenee.googlevideo.com
+r3---sn-npoeeney.googlevideo.com
 r3---sn-npoeenez.googlevideo.com
 r3---sn-npoeenle.googlevideo.com
 r3---sn-ntq7yned.googlevideo.com
@@ -119,6 +125,7 @@ r3---sn-vgqsrnel.googlevideo.com
 r4---sn-5hne6n7e.googlevideo.com
 r4---sn-5hne6nsd.googlevideo.com
 r4---sn-5ualdn76.googlevideo.com
+r4---sn-9gv7ene6.googlevideo.com
 r4---sn-a5mlrn7s.googlevideo.com
 r4---sn-a5msen7l.googlevideo.com
 r4---sn-ab5l6ndy.googlevideo.com
@@ -136,6 +143,7 @@ r4---sn-npoe7nlz.googlevideo.com
 r4---sn-npoeen76.googlevideo.com
 r4---sn-npoeen7d.googlevideo.com
 r4---sn-npoeen7k.googlevideo.com
+r4---sn-npoeene6.c.youtube.com
 r4---sn-npoeened.googlevideo.com
 r4---sn-npoeeney.googlevideo.com
 r4---sn-npoeenle.googlevideo.com
@@ -146,6 +154,7 @@ r4---sn-ntqe6n76.googlevideo.com
 r4---sn-ntqe6n7k.googlevideo.com
 r4---sn-ntqe6n7r.googlevideo.com
 r4---sn-ntqe6nee.googlevideo.com
+r4---sn-ntqe6nes.c.youtube.com
 r4---sn-ntqe6nes.googlevideo.com
 r4---sn-ntqe6nez.googlevideo.com
 r4---sn-nv47lnl7.googlevideo.com
@@ -164,6 +173,7 @@ r5---sn-4g5e6nsk.googlevideo.com
 r5---sn-5hne6nlk.googlevideo.com
 r5---sn-npoe7n7z.googlevideo.com
 r5---sn-npoe7ne6.googlevideo.com
+r5---sn-npoe7ned.googlevideo.com
 r5---sn-npoe7nes.googlevideo.com
 r5---sn-npoe7nez.googlevideo.com
 r5---sn-npoeen76.googlevideo.com
@@ -172,11 +182,14 @@ r5---sn-npoeenee.googlevideo.com
 r5---sn-npoeener.googlevideo.com
 r5---sn-npoeeney.googlevideo.com
 r5---sn-npoeenl7.googlevideo.com
+r5---sn-npoeenle.c.youtube.com
 r5---sn-npoeenle.googlevideo.com
+r5---sn-ntq7yned.c.youtube.com
 r5---sn-ntq7yned.googlevideo.com
 r5---sn-ntq7yner.googlevideo.com
 r5---sn-ntq7yney.googlevideo.com
 r5---sn-ntqe6n76.googlevideo.com
+r5---sn-ntqe6n7k.c.youtube.com
 r5---sn-ntqe6n7k.googlevideo.com
 r5---sn-ntqe6n7r.googlevideo.com
 r5---sn-ntqe6nee.googlevideo.com
@@ -209,6 +222,7 @@ r8---sn-u2bpouxgoxu-hxaz.googlevideo.com
 r8---sn-u2bpouxgoxu-ntqz.googlevideo.com
 redirector.googlevideo.com
 scribe.logs.roku.com
+studio.youtube.com
 s.youtube.com
 s.ytimg.com
 www.youtube.com
