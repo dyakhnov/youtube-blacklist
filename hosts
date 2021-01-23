@@ -9,6 +9,7 @@ beacons.gcp.gvt2.com
 beacons.gvt2.com
 client-channel.youtube.com
 e2clock.gcp.gvt2.com
+edgedl.gvt1.com
 eligibility-panelresearch.googlevideo.com
 fcmatch.youtube.com
 i1.ytimg.com
@@ -212,6 +213,7 @@ r1.sn-ntqe6nel.c.youtube.com
 r1---sn-ntqe6nel.googlevideo.com
 r1.sn-ntqe6nel.googlevideo.com
 r1---sn-ntqe6nel.gvt1.com
+r1---sn-ntqe6nes.c.youtube.com
 r1---sn-ntqe6nes.googlevideo.com
 r1.sn-ntqe6nes.googlevideo.com
 r1---sn-ntqe6nes.gvt1.com
@@ -927,6 +929,7 @@ r4.sn-ntq7ynle.c.youtube.com
 r4---sn-ntq7ynle.googlevideo.com
 r4.sn-ntq7ynle.googlevideo.com
 r4---sn-ntq7ynle.gvt1.com
+r4---sn-ntqe6n76.c.youtube.com
 r4---sn-ntqe6n76.googlevideo.com
 r4.sn-ntqe6n76.googlevideo.com
 r4---sn-ntqe6n76.gvt1.com
@@ -1124,6 +1127,7 @@ r5---sn-npoeenee.googlevideo.com
 r5---sn-npoeenek.googlevideo.com
 r5.sn-npoeenek.googlevideo.com
 r5---sn-npoeenek.gvt1.com
+r5---sn-npoeener.c.youtube.com
 r5---sn-npoeener.gvt1.com
 r5---sn-npoeeney.c.youtube.com
 r5---sn-npoeeney.googlevideo.com
@@ -1162,6 +1166,7 @@ r5---sn-ntqe6n7k.c.youtube.com
 r5---sn-ntqe6n7k.googlevideo.com
 r5.sn-ntqe6n7k.googlevideo.com
 r5---sn-ntqe6n7k.gvt1.com
+r5---sn-ntqe6n7r.c.youtube.com
 r5---sn-ntqe6n7r.googlevideo.com
 r5.sn-ntqe6n7r.googlevideo.com
 r5---sn-ntqe6n7r.gvt1.com
