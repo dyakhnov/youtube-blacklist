@@ -1,4 +1,5 @@
 accounts.youtube.com
+artists.youtube.com
 austin.logs.roku.com
 beacons2.gvt2.com
 beacons3.gvt2.com
@@ -8,6 +9,7 @@ beacons5.gvt3.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
 client-channel.youtube.com
+creatoracademy.youtube.com
 e2clock.gcp.gvt2.com
 edgedl.gvt1.com
 eligibility-panelresearch.googlevideo.com
@@ -154,6 +156,7 @@ r1---sn-npoe7nl6.googlevideo.com
 r1.sn-npoe7nl6.googlevideo.com
 r1---sn-npoe7nlz.googlevideo.com
 r1---sn-npoeen76.googlevideo.com
+r1---sn-npoeen76.gvt1.com
 r1---sn-npoeen7d.googlevideo.com
 r1.sn-npoeen7d.googlevideo.com
 r1---sn-npoeen7k.googlevideo.com
@@ -1349,14 +1352,19 @@ r8---sn-u2bpouxgoxu-ntqz.googlevideo.com
 redirector.googlevideo.com
 redirector.gvt1.com
 scribe.logs.roku.com
+servicesdirectory.withyoutube.com
 signaler-pa.youtube.com
+socialimpact.youtube.com
 studio.youtube.com
 suggestqueries-clients6.youtube.com
 s.youtube.com
 s.ytimg.com
+tv.youtube.com
 upload.youtube.com
+vr.youtube.com
 www.youtube.com
 youtube.com
 youtube.com.au
 youtube.googleapis.com
+youtube.googleblog.com
 ytimg.l.google.com
