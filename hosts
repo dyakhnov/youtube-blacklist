@@ -1,4 +1,5 @@
 accounts.youtube.com
+austin.logs.roku.com
 beacons2.gvt2.com
 beacons3.gvt2.com
 beacons4.gvt2.com
@@ -50,6 +51,7 @@ r1---sn-npoe7n7z.googlevideo.com
 r1---sn-npoe7ne6.googlevideo.com
 r1---sn-npoe7ne7.googlevideo.com
 r1.sn-npoe7ne7.googlevideo.com
+r1---sn-npoe7ne7.gvt1.com
 r1---sn-npoe7ned.googlevideo.com
 r1.sn-npoe7ned.googlevideo.com
 r1---sn-npoe7nek.googlevideo.com
@@ -123,6 +125,7 @@ r2---sn-a5mekne7.googlevideo.com
 r2---sn-a5meknes.googlevideo.com
 r2---sn-a5mlrn7z.googlevideo.com
 r2---sn-a5msen76.c.youtube.com
+r2---sn-a5msen76.googlevideo.com
 r2---sn-ab5szn7s.googlevideo.com
 r2---sn-aigzrnld.googlevideo.com
 r2---sn-hxa76n7s.c.youtube.com
@@ -196,6 +199,7 @@ r2---sn-ntqe6nez.googlevideo.com
 r2---sn-ntqe6nez.gvt1.com
 r2---sn-q4fl6ne7.googlevideo.com
 r2---sn-q4fl6ns7.googlevideo.com
+r2---sn-q4flrnld.googlevideo.com
 r2---sn-qxo7rn7s.googlevideo.com
 r2.sn-qxo7rn7s.googlevideo.com
 r2---sn-qxoedn7e.googlevideo.com
@@ -215,6 +219,7 @@ r2---sn-v2u0n-ntqk.gvt1.com
 r2---sn-vgqsrn7s.googlevideo.com
 r3---sn-5hne6nsr.googlevideo.com
 r3---sn-9gv7lnez.googlevideo.com
+r3---sn-a5mekne7.googlevideo.com
 r3---sn-a5mekned.googlevideo.com
 r3---sn-a5meknel.googlevideo.com
 r3---sn-a5meknzr.googlevideo.com
@@ -407,6 +412,7 @@ r4---sn-ntqe6nez.gvt1.com
 r4---sn-q4fl6nsl.googlevideo.com
 r4---sn-q4fl6nsy.googlevideo.com
 r4---sn-q4flrney.googlevideo.com
+r4---sn-q4flrnez.googlevideo.com
 r4---sn-u2bpouxgoxu-hxa6.googlevideo.com
 r4.sn-u2bpouxgoxu-hxa6.googlevideo.com
 r4---sn-u2bpouxgoxu-hxa6.gvt1.com
@@ -547,6 +553,7 @@ r6---sn-u2bpouxgoxu-ntqd.googlevideo.com
 r8---sn-u2bpouxgoxu-ntqk.gvt1.com
 redirector.googlevideo.com
 redirector.gvt1.com
+scribe.logs.roku.com
 signaler-pa.youtube.com
 studio.youtube.com
 suggestqueries-clients6.youtube.com
