@@ -55,6 +55,7 @@ r1---sn-a5meknzl.googlevideo.com
 r1.sn-a5meknzl.googlevideo.com
 r1---sn-a5meknzr.googlevideo.com
 r1---sn-a5meknzs.googlevideo.com
+r1.sn-a5meknzs.googlevideo.com
 r1---sn-a5mlrn76.googlevideo.com
 r1---sn-a5mlrn7r.c.youtube.com
 r1---sn-a5mlrn7r.googlevideo.com
@@ -75,6 +76,8 @@ r1---sn-f5f7lnee.googlevideo.com
 r1---sn-hgn7rn7k.googlevideo.com
 r1---sn-hgn7rn7r.googlevideo.com
 r1---sn-hgn7yn7l.googlevideo.com
+r1---sn-hpa7kn7s.googlevideo.com
+r1.sn-hpa7kn7s.googlevideo.com
 r1---sn-hxa76n7s.c.youtube.com
 r1---sn-hxa76n7s.googlevideo.com
 r1.sn-hxa76n7s.googlevideo.com
@@ -257,6 +260,7 @@ r2---sn-1gi7znek.googlevideo.com
 r2---sn-1gieen7e.googlevideo.com
 r2---sn-4g5e6ne6.googlevideo.com
 r2---sn-4g5ednly.googlevideo.com
+r2---sn-5hne6nsk.googlevideo.com
 r2---sn-5uaezn66.googlevideo.com
 r2---sn-5ualdn7r.googlevideo.com
 r2---sn-5ualdnls.googlevideo.com
@@ -287,6 +291,8 @@ r2---sn-a5mlrn7k.googlevideo.com
 r2---sn-a5mlrn7l.googlevideo.com
 r2---sn-a5mlrn7r.googlevideo.com
 r2.sn-a5mlrn7r.googlevideo.com
+r2---sn-a5mlrn7y.googlevideo.com
+r2.sn-a5mlrn7y.googlevideo.com
 r2---sn-a5mlrn7z.googlevideo.com
 r2.sn-a5mlrn7z.googlevideo.com
 r2---sn-a5mlrnel.gvt1.com
@@ -393,6 +399,7 @@ r2---sn-nx5s7n7s.googlevideo.com
 r2---sn-nx5s7n7z.gvt1.com
 r2---sn-oguesnzz.googlevideo.com
 r2---sn-q0cedn7s.googlevideo.com
+r2---sn-q4fl6n7y.googlevideo.com
 r2---sn-q4fl6n7y.gvt1.com
 r2---sn-q4fl6ne6.googlevideo.com
 r2---sn-q4fl6ne7.googlevideo.com
@@ -943,6 +950,7 @@ r5---sn-25glenez.googlevideo.com
 r5---sn-3c27sn7y.googlevideo.com
 r5---sn-4g5e6nsz.googlevideo.com
 r5---sn-5hnekn7z.googlevideo.com
+r5---sn-5ualdnlr.googlevideo.com
 r5---sn-9gv7enls.googlevideo.com
 r5---sn-a5mekn7r.googlevideo.com
 r5---sn-a5mekne7.googlevideo.com
@@ -971,6 +979,7 @@ r5---sn-a5mlrn7l.googlevideo.com
 r5.sn-a5mlrn7l.googlevideo.com
 r5---sn-a5mlrn7s.googlevideo.com
 r5---sn-a5mlrn7y.c.youtube.com
+r5---sn-a5mlrn7y.googlevideo.com
 r5---sn-a5mlrn7z.googlevideo.com
 r5.sn-a5mlrn7z.googlevideo.com
 r5---sn-a5mlrnek.c.youtube.com
@@ -1254,12 +1263,15 @@ r8---sn-u2bpouxgoxu-ntqz.googlevideo.com
 r8---sn-u2bpouxgoxu-ntqz.gvt1.com
 redirector.googlevideo.com
 redirector.gvt1.com
+rr1---sn-hxa76n7s.c.youtube.com
 rr1---sn-hxa7zn7s.c.youtube.com
 rr1---sn-vgqsrnlz.c.youtube.com
 rr3---sn-hxa76n7s.c.youtube.com
 rr3---sn-hxa7zn7s.c.youtube.com
+rr3---sn-q4fl6nzy.c.youtube.com
 rr3---sn-u2bpouxgoxu-hxar.googlevideo.com
 rr3---sn-vgqsknlk.c.youtube.com
+rr6---sn-q4fl6ne7.c.youtube.com
 scribe.logs.roku.com
 signaler-pa.youtube.com
 studio.youtube.com
