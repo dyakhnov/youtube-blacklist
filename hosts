@@ -48,6 +48,7 @@ r1---sn-ppoxu-hxas.googlevideo.com
 r1---sn-q4fl6ney.googlevideo.com
 r1---sn-q4fl6nez.googlevideo.com
 r1---sn-q4fl6nl7.googlevideo.com
+r1.sn-q4fl6nl7.googlevideo.com
 r1---sn-q4fl6nlr.googlevideo.com
 r1---sn-q4fl6nly.googlevideo.com
 r1---sn-q4fl6ns7.googlevideo.com
@@ -132,6 +133,7 @@ r2---sn-q4flrnes.googlevideo.com
 r2---sn-q4flrnez.googlevideo.com
 r2---sn-q4flrnl6.googlevideo.com
 r2---sn-q4flrnld.googlevideo.com
+r2.sn-q4flrnld.googlevideo.com
 r2---sn-q4flrnle.googlevideo.com
 r2---sn-q4flrnlz.googlevideo.com
 r2---sn-q4flrnsl.googlevideo.com
@@ -242,6 +244,8 @@ r4.sn-vgqsknes.googlevideo.com
 r4---sn-vgqsknld.googlevideo.com
 r5---sn-a5mekn6z.c.youtube.com
 r5.sn-a5mekn6z.c.youtube.com
+r5---sn-a5mekn6z.googlevideo.com
+r5.sn-a5mekn6z.googlevideo.com
 r5---sn-a5meknsy.googlevideo.com
 r5.sn-a5meknsy.googlevideo.com
 r5---sn-a5mlrn7s.googlevideo.com
@@ -301,6 +305,7 @@ redirector.googlevideo.com
 redirector.gvt1.com
 rr1---sn-u2bpouxgoxu-hxa6.googlevideo.com
 rr1---sn-u2bpouxgoxu-hxar.googlevideo.com
+rr1---sn-u2bpouxgoxu-hxay.googlevideo.com
 rr2---sn-hxa7zn7s.c.youtube.com
 rr2---sn-q4flrnsl.c.youtube.com
 rr2---sn-u2bpouxgoxu-hxa6.googlevideo.com
@@ -324,6 +329,8 @@ rr4---sn-hxa7zn7s.c.youtube.com
 rr4---sn-q4flrn7s.c.youtube.com
 rr4---sn-q4flrne7.c.youtube.com
 rr4---sn-u2bpouxgoxu-hxa6.googlevideo.com
+rr5---sn-a5meknek.c.youtube.com
+rr5---sn-hxa7zn7s.c.youtube.com
 rr5---sn-u2bpouxgoxu-hxa6.googlevideo.com
 scribe.logs.roku.com
 signaler-pa.youtube.com
