@@ -8,7 +8,13 @@ beacons5.gvt3.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
 e2clock.gcp.gvt2.com
+e2cs04.gcp.gvt2.com
 e2cs11.gcp.gvt2.com
+e2cs17.gcp.gvt2.com
+e2cs21.gcp.gvt2.com
+e2cs27.gcp.gvt2.com
+e2cs30.gcp.gvt2.com
+e2cs35.gcp.gvt2.com
 e2cs.gcp.gvt2.com
 edgedl.me.gvt1.com
 eligibility-panelresearch.googlevideo.com
@@ -22,10 +28,13 @@ img.youtube.com
 i.ytimg.com
 music.youtube.com
 m.youtube.com
+r1---sn-a5mekn6d.googlevideo.com
+r1.sn-a5mekn6d.googlevideo.com
 r1---sn-a5mekn6l.googlevideo.com
 r1.sn-a5mekn6l.googlevideo.com
 r1---sn-a5mekn6s.googlevideo.com
 r1.sn-a5mekn6s.googlevideo.com
+r1---sn-a5mekn6z.googlevideo.com
 r1---sn-a5mlrn7d.gvt1.com
 r1---sn-a5mlrn7k.googlevideo.com
 r1---sn-a5mlrn7k.gvt1.com
@@ -119,6 +128,7 @@ r2.sn-a5mekned.googlevideo.com
 r2---sn-a5meknl6.googlevideo.com
 r2---sn-a5meknle.googlevideo.com
 r2---sn-a5meknsd.googlevideo.com
+r2---sn-a5meknsd.gvt1.com
 r2---sn-a5meknzk.googlevideo.com
 r2---sn-a5meknzr.googlevideo.com
 r2---sn-a5mlrn76.googlevideo.com
@@ -127,8 +137,11 @@ r2---sn-a5mlrn7r.googlevideo.com
 r2.sn-a5mlrn7r.googlevideo.com
 r2---sn-a5mlrn7z.googlevideo.com
 r2.sn-a5mlrn7z.googlevideo.com
+r2---sn-a5mlrnek.googlevideo.com
 r2---sn-a5mlrnel.googlevideo.com
 r2---sn-a5mlrnes.googlevideo.com
+r2---sn-a5msen7z.googlevideo.com
+r2.sn-a5msen7z.googlevideo.com
 r2---sn-a5msenek.googlevideo.com
 r2.sn-a5msenek.googlevideo.com
 r2---sn-hxa76n7s.c.youtube.com
@@ -328,6 +341,7 @@ r5---sn-a5meknzl.googlevideo.com
 r5.sn-a5meknzl.googlevideo.com
 r5---sn-a5meknzs.googlevideo.com
 r5.sn-a5meknzs.googlevideo.com
+r5---sn-a5mlrn76.gvt1.com
 r5---sn-a5mlrn7d.gvt1.com
 r5---sn-a5mlrn7s.googlevideo.com
 r5.sn-a5mlrn7s.googlevideo.com
@@ -386,7 +400,11 @@ r6---sn-a5m7lnlz.googlevideo.com
 r6.sn-a5m7lnlz.googlevideo.com
 r6---sn-a5mekner.googlevideo.com
 r6---sn-a5meknle.googlevideo.com
+r6---sn-a5meknll.googlevideo.com
+r6.sn-a5meknll.googlevideo.com
 r6---sn-a5meknlz.googlevideo.com
+r6---sn-a5mlrn7d.googlevideo.com
+r6.sn-a5mlrn7d.googlevideo.com
 r6---sn-a5mlrn7r.googlevideo.com
 r6---sn-a5mlrnes.googlevideo.com
 r6---sn-hpa7zned.googlevideo.com
@@ -429,6 +447,7 @@ rr3.sn-hxa7zn7s.c.youtube.com
 rr3---sn-q4fl6nzy.c.youtube.com
 rr3---sn-u2bpouxgoxu-hxa6.googlevideo.com
 rr3---sn-u2bpouxgoxu-hxa6.offline-maps.gvt1.com
+rr3---sn-u2bpouxgoxu-hxar.googlevideo.com
 rr3---sn-u2bpouxgoxu-hxar.offline-maps.gvt1.com
 rr4---sn-a5mekn6d.c.youtube.com
 rr4---sn-a5msen7l.c.youtube.com
