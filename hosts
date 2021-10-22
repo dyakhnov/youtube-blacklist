@@ -25,6 +25,7 @@ e2c2.gcp.gvt2.com
 e2c30.gcp.gvt2.com
 e2c31.gcp.gvt2.com
 e2c34.gcp.gvt2.com
+e2c36.gcp.gvt2.com
 e2c38.gcp.gvt2.com
 e2c40.gcp.gvt2.com
 e2c42.gcp.gvt2.com
@@ -57,6 +58,7 @@ e2cs32.gcp.gvt2.com
 e2cs33.gcp.gvt2.com
 e2cs34.gcp.gvt2.com
 e2cs35.gcp.gvt2.com
+e2cs36.gcp.gvt2.com
 e2cs38.gcp.gvt2.com
 e2cs39.gcp.gvt2.com
 e2cs45.gcp.gvt2.com
@@ -429,6 +431,7 @@ r5---sn-hxa7zn7s.googlevideo.com
 r5.sn-hxa7zn7s.googlevideo.com
 r5---sn-hxa7zn7s.gvt1.com
 r5---sn-ntq7yned.c.youtube.com
+r5---sn-ntq7ynle.c.youtube.com
 r5---sn-ntqe6n76.c.youtube.com
 r5.sn-ntqe6n76.c.youtube.com
 r5---sn-ppoxu-hxas.googlevideo.com
@@ -533,11 +536,13 @@ rr4---sn-q4flrn7s.c.youtube.com
 rr4---sn-q4flrne7.c.youtube.com
 rr4---sn-u2bpouxgoxu-hxa6.googlevideo.com
 rr5---sn-a5meknek.c.youtube.com
+rr5---sn-hxa76n7s.c.youtube.com
 rr5---sn-hxa76n7s.googlevideo.com
 rr5---sn-hxa7zn7s.c.youtube.com
 rr5---sn-hxa7zn7s.googlevideo.com
 rr5---sn-npoe7nl6.googlevideo.com
 rr5---sn-npoe7nsl.googlevideo.com
+rr5---sn-q4fl6ner.c.youtube.com
 rr5---sn-u2bpouxgoxu-hxa6.googlevideo.com
 scribe.logs.roku.com
 signaler-pa.youtube.com
