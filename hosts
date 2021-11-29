@@ -70,6 +70,7 @@ e2cs05.gcp.gvt2.com
 e2cs06.gcp.gvt2.com
 e2cs07.gcp.gvt2.com
 e2cs08.gcp.gvt2.com
+e2cs10.gcp.gvt2.com
 e2cs11.gcp.gvt2.com
 e2cs12.gcp.gvt2.com
 e2cs13.gcp.gvt2.com
@@ -81,12 +82,14 @@ e2cs19.gcp.gvt2.com
 e2cs20.gcp.gvt2.com
 e2cs21.gcp.gvt2.com
 e2cs22.gcp.gvt2.com
+e2cs23.gcp.gvt2.com
 e2cs24.gcp.gvt2.com
 e2cs25.gcp.gvt2.com
 e2cs26.gcp.gvt2.com
 e2cs27.gcp.gvt2.com
 e2cs28.gcp.gvt2.com
 e2cs30.gcp.gvt2.com
+e2cs31.gcp.gvt2.com
 e2cs32.gcp.gvt2.com
 e2cs33.gcp.gvt2.com
 e2cs34.gcp.gvt2.com
@@ -358,6 +361,7 @@ r3---sn-a5meknl7.googlevideo.com
 r3---sn-a5meknll.googlevideo.com
 r3.sn-a5meknll.googlevideo.com
 r3---sn-a5meknll.gvt1.com
+r3---sn-a5meknzk.googlevideo.com
 r3---sn-a5meknzr.googlevideo.com
 r3.sn-a5meknzr.googlevideo.com
 r3---sn-a5mlrn7d.googlevideo.com
@@ -445,6 +449,7 @@ r4---sn-a5mekn6l.googlevideo.com
 r4---sn-a5mekn6s.googlevideo.com
 r4---sn-a5mekn6z.googlevideo.com
 r4.sn-a5mekn6z.googlevideo.com
+r4---sn-a5meknll.googlevideo.com
 r4---sn-a5meknsd.gvt1.com
 r4---sn-a5meknzl.googlevideo.com
 r4.sn-a5meknzl.googlevideo.com
@@ -476,6 +481,7 @@ r4---sn-hxa7zn7s.googlevideo.com
 r4.sn-hxa7zn7s.googlevideo.com
 r4---sn-hxa7zn7s.gvt1.com
 r4---sn-npoe7nl6.googlevideo.com
+r4---sn-npoldn7s.googlevideo.com
 r4---sn-ntqe6nel.c.youtube.com
 r4.sn-ntqe6nel.c.youtube.com
 r4---sn-q4fl6n7y.googlevideo.com
@@ -510,6 +516,7 @@ r4---sn-q4flrne7.googlevideo.com
 r4---sn-q4flrnek.googlevideo.com
 r4.sn-q4flrnek.googlevideo.com
 r4---sn-q4flrnel.googlevideo.com
+r4---sn-q4flrner.googlevideo.com
 r4---sn-q4flrnes.googlevideo.com
 r4.sn-q4flrnes.googlevideo.com
 r4---sn-q4flrney.googlevideo.com
