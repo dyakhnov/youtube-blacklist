@@ -47,6 +47,8 @@ pull-cmaf-f58-sg01.tiktokcdn.com
 pull-cmaf-f5.tiktokcdn.com
 pull-cmaf-f77-va01.tiktokcdn.com
 pull-cmaf-l10-sg01.tiktokcdn.com
+pull-cmaf-l16-gcp01.tiktokcdn.com
+pull-cmaf-l16-sg01.tiktokcdn.com
 pull-cmaf-l16-va01.tiktokcdn.com
 pull-cmaf-l77-va01.tiktokcdn.com
 pull-f5-ab.tiktokcdn.com
@@ -75,6 +77,8 @@ pull-flv-l11-sg01.ttlivecdn.com
 pull-flv-l11.tiktokcdn.com
 pull-flv-l11-va01.tiktokcdn.com
 pull-flv-l11-va01.ttlivecdn.com
+pull-flv-l16-gcp01.tiktokcdn.com
+pull-flv-l16-sg01.tiktokcdn.com
 pull-flv-l16-va01.tiktokcdn.com
 pull-flv-l1-gcp01.tiktokcdn.com
 pull-flv-l1-gcp01.ttlivecdn.com
@@ -181,6 +185,7 @@ push-rtmp-l11-sg01.ttlivecdn.com
 push-rtmp-l11.tiktokcdn.com
 push-rtmp-l11-va01.tiktokcdn.com
 push-rtmp-l11-va01.ttlivecdn.com
+push-rtmp-l16-sg01.tiktokcdn.com
 push-rtmp-l16-va01.tiktokcdn.com
 push-rtmp-l1-gcp01.tiktokcdn.com
 push-rtmp-l1-gcp01.ttlivecdn.com
