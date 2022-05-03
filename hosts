@@ -60,7 +60,9 @@ e2c7.gcp.gvt2.com
 e2c8.gcp.gvt2.com
 e2c9.gcp.gvt2.com
 e2cs02.gcp.gvt2.com
+e2cs06.gcp.gvt2.com
 e2cs08.gcp.gvt2.com
+e2cs10.gcp.gvt2.com
 e2cs17.gcp.gvt2.com
 e2cs18.gcp.gvt2.com
 e2cs20.gcp.gvt2.com
@@ -70,6 +72,7 @@ e2cs26.gcp.gvt2.com
 e2cs32.gcp.gvt2.com
 e2cs33.gcp.gvt2.com
 e2cs35.gcp.gvt2.com
+e2cs36.gcp.gvt2.com
 e2cs42.gcp.gvt2.com
 e2cs43.gcp.gvt2.com
 e2cs45.gcp.gvt2.com
@@ -170,6 +173,7 @@ r4---sn-npoe7ned.googlevideo.com
 r4---sn-npoe7nek.googlevideo.com
 r4---sn-npoe7ner.googlevideo.com
 r4---sn-npoeened.googlevideo.com
+r4---sn-npoeenek.googlevideo.com
 r4---sn-npoeenly.googlevideo.com
 r4---sn-npoldn7d.googlevideo.com
 r4---sn-npoldn7e.googlevideo.com
@@ -234,6 +238,7 @@ rr1---sn-npoe7nlz.googlevideo.com
 rr1---sn-npoe7ns6.c.youtube.com
 rr1---sn-npoe7nsl.googlevideo.com
 rr1---sn-npoe7nsy.googlevideo.com
+rr1---sn-npoeen7d.googlevideo.com
 rr1---sn-npoeen7k.googlevideo.com
 rr1---sn-npoeened.googlevideo.com
 rr1.sn-npoeened.googlevideo.com
@@ -274,6 +279,7 @@ rr2---sn-hxa7zn7s.googlevideo.com
 rr2.sn-hxa7zn7s.googlevideo.com
 rr2---sn-hxa7zn7s.gvt1.com
 rr2---sn-npoe7n7r.googlevideo.com
+rr2---sn-npoe7n7r.gvt1.com
 rr2---sn-npoe7n7z.c.youtube.com
 rr2---sn-npoe7ne6.googlevideo.com
 rr2---sn-npoe7ned.googlevideo.com
@@ -335,6 +341,7 @@ rr3---sn-npoeene6.googlevideo.com
 rr3---sn-npoeened.googlevideo.com
 rr3---sn-npoeenee.googlevideo.com
 rr3---sn-npoeenek.googlevideo.com
+rr3---sn-npoeener.gvt1.com
 rr3---sn-npoeeney.googlevideo.com
 rr3---sn-npoeenez.googlevideo.com
 rr3---sn-npoeenl7.googlevideo.com
